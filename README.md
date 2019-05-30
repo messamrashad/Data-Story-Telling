@@ -42,7 +42,7 @@ This repoository includes the following:
  #### Design: explain any design choices I made including changes to the visualization after collecting feedback
  #### Feedback: include all feedback I received from others on my visualization from the first sketch to the final visualization
  #### Resources: list any sources I consulted to create my visualization
-Data Files: the final data set used to create the visualization (usually .csv, .tsv, or .json file)
+ #### Data Files: the final data set used to create the visualization (usually .csv, .tsv, or .json file)
 
  #### Step Three - Find a Data Story
 Explore my data set and craft a message or story around your data! Think about the overall message I want to convey and think about the comparison(s) or relationship(s) I want my readers to see. Remember that I will ultimately need to create a visualization that is explanatory, helping lead a reader to identify one or more key insights into the dataset.
